@@ -39,6 +39,7 @@ img {
   font-style: normal; }
 
 body {
+	min-width: 595px;
 	background-color: #fff;
 	font-size: 16px;
 	font-family: 'Futura';
