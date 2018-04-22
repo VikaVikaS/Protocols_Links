@@ -8,6 +8,11 @@
 	box-sizing: border-box;
 }
 
+section,
+main {
+	display: block;
+}
+
 img {
 	max-width: 100%;
 	border-style: none;
@@ -70,6 +75,10 @@ body {
 
 .logo {
 	width: 212px;
+}
+
+.logo img {
+	height: 53px;
 }
 
 .main {
