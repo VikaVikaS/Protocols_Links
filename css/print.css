@@ -172,22 +172,18 @@ table caption {
     -webkit-box-align:start;
     -ms-flex-align:start;
     align-items:flex-start;
-    max-width: 482px;
+    max-width: 522px;
     padding-left: 4px;
     page-break-inside:avoid;
     page-break-after:auto;
 }
 
 .footer__text {
-	padding-top: 42px;
+	padding-top: 58px;
 }
 
 .stamp {
-	width: 134px;
-	transform: rotate(-14deg);
-	-webkit-transform: rotate(-14deg);
-    -ms-transform: rotate(-14deg);
-        transform: rotate(-14deg);
+	width: 257px;
 }
 
 .page-actions {
